@@ -1,0 +1,5 @@
+# push 03/09/2026 08:41:58
+name = 'design-system'
+main = 'worker.js'
+compatibility_date = '2026-03-09'
+workers_dev = true
